@@ -5,8 +5,8 @@ nonlinear scaling laws in a simplified EUV contamination control system using
 synthetic, physics-inspired data.
 
 Goal:  see how different model classes behave under interpolation and extrapolation when learning nonlinear and saturating relationships.
-
 EUVs are the most advanced form of Lithography, used to make the performant and efficient processors we use today. EUV stands for Extreme Ultraviolet. It allows for very low nanometer level lithography.
+
 ---
 
 ## Problem Setup
